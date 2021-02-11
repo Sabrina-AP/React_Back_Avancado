@@ -8,7 +8,7 @@ export default props => {
             <br /><br /><br />
             <p className='col text-white text-center bg-success p-5 '>A Sabrina A-G-R-A-D-E-C-E imensamente a oportunidade incrível de aprendizado!!!!!!!!!!!*_* :)</p>
             <br /><br />
-            <p className='text-dark col text-white text-center bg-warning p-5'>*_* :)!!!!!!!!!!!!!! ********* MUITO OBRIGADA ********* !!!!!!!!!!!!!!*_* :)</p>
+            <p className='text-dark col text-center bg-warning p-5'>*_* :)!!!!!!!!!!!!!! ********* MUITO OBRIGADA ********* !!!!!!!!!!!!!!*_* :)</p>
         </div>
     )
 };
